@@ -1,0 +1,50 @@
+{
+    "_from": "body-parser@1.18.3",
+    "_id": "body-parser@1.18.3",
+    "_inBundle": false,
+    "_integrity": "sha1-WykhmP/dVTs6DyDe0FkrlWlVyLQ=",
+    "_location": "/body-parser",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "version",
+        "registry": true,
+        "raw": "body-parser@1.18.3",
+        "name": "body-parser",
+        "escapedName": "body-parser",
+        "rawSpec": "1.18.3",
+        "saveSpec": null,
+        "fetchSpec": "1.18.3"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "bytes": "3.0.0",
+        "content-type": "~1.0.4",
+        "debug": "2.6.9",
+        "depd": "~1.1.2",
+        "faker": "^4.1.0",
+        "http-errors": "~1.6.3",
+        "iconv-lite": "0.4.23",
+        "on-finished": "~2.3.0",
+        "qs": "6.5.2",
+        "raw-body": "2.3.3",
+        "type-is": "~1.6.16"
+    },
+    "deprecated": false,
+    "description": "Node.js body parsing middleware",
+    "engines": {
+        "node": ">= 0.8"
+    },
+    "files": [
+        "lib/",
+        "LICENSE",
+        "HISTORY.md",
+        "index.js"
+    ],
+    "license": "MIT",
+    "name": "body-parser",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/expressjs/body-parser.git"
+    },
+    "version": "1.18.3"
+}
