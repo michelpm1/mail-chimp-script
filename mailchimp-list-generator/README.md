@@ -6,7 +6,7 @@ Require this module at your initialization script:
 ```
 const mailChimpListGenerator = require('./mailchimp-list-generator');
 ```
-### Use method:
+### Use this method to generate the list:
 ```
 mailChimpListGenerator.generate();
 ```
