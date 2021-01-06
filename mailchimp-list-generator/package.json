@@ -16,7 +16,7 @@
         "fetchSpec": "1.18.3"
     },
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "bytes": "3.0.0",
         "content-type": "~1.0.4",
         "debug": "2.6.9",
